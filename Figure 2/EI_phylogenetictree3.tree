@@ -1,0 +1,88 @@
+(
+(
+SI-C6 Comamonas sediminis strain S3:0.12623,
+(
+(
+(
+GI-25 Pantoea cypripedii strain ATCC 29267:0.024019,
+GI-37 Pantoea agglomerans strain DSM 3493:0.024019)
+Branch 12:0.013456,
+(
+SI-B10 Klebsiella aerogenes KCTC 2190:0.034409,
+(
+SI-C2 Enterobacter asburiae strain JCM6051:0.022745,
+(
+SI-B9 Klebsiella aerogenes strain NBRC 13534:0.0068755,
+SI-C3 Citrobacter cronae strain Tue2_1:0.0068755)
+Branch 4:0.01587)
+Branch 11:0.011664)
+Branch 17:0.003065)
+Branch 18:0.066368,
+(
+(
+SI-D6 Pseudoxanthomonas putridarboris strain WD12:0.030652,
+(
+SI-B4 Stenotrophomonas pavanii strain LMG 25348:0.018734,
+(
+SI-B3 Stenotrophomonas cyclobalanopsidis strain TPQG1-4:0.014485,
+(
+SI-B2 Stenotrophomonas lactitubi strain M15:0.0061412,
+SI-C4 Stenotrophomonas maltophilia strain ATCC 13637 :0.0061412)
+Branch 3:0.0083438)
+Branch 7:0.0042491)
+Branch 10:0.011918)
+Branch 16:0.064233,
+(
+(
+SI-E10 Acinetobacter oleivorans strain DR1:0.026421,
+SI-G9 Acinetobacter geminorum strain J00019:0.026421)
+Branch 14:0.055446,
+(
+GI-1 Pseudomonas oryzihabitans strain IAM 1568:0.048446,
+(
+GI-9 Pseudomonas baltica strain MBT-2:0.039809,
+(
+(
+SI-C5 Pseudomonas fulva strain NBRC 16637:0.016523,
+(
+GI-50 Pseudomonas umsongensis strain Ps 3-10:0.01351,
+GI-51 Pseudomonas mandelii strain NBRC 103147:0.01351)
+Branch 6:0.0030132)
+Branch 9:0.010597,
+(
+GI-14 Pseudomonas glycinis strain PI111:0.024995,
+(
+SI-C8 Pseudomonas urethralis strain BML-PP042:0.0017178,
+SI-D4 Pseudomonas faucium strain BML-PP048:0.0017178)
+Branch 1:0.023277)
+Branch 13:0.0021255)
+Branch 15:0.012689)
+Branch 19:0.0086369)
+Branch 21:0.033421)
+Branch 24:0.013018)
+Branch 25:0.0089564)
+Branch 26:0.022385)
+Branch 27:0.026682,
+(
+GI-38 Rhodococcus erythropolis strain N11:0.14425,
+(
+(
+GI-16 Bacillus clarus strain ATCC 21929:0.0022562,
+GI-33 Bacillus sanguinis strain BML-BC004:0.0022562)
+Branch 2:0.052948,
+(
+GI-5 Staphylococcus epidermidis strain Fussel:0.051548,
+(
+GI-6 Priestia flexa strain NBRC 15715:0.041034,
+(
+GI-17 Bacillus aerius strain 24K:0.015984,
+(
+GI-55 Bacillus xiamenensis strain MCCC 1A00008:0.0089716,
+GI-56 Bacillus altitudinis 41KF2b:0.0089716)
+Branch 5:0.0070122)
+Branch 8:0.025051)
+Branch 20:0.010514)
+Branch 22:0.0036557)
+Branch 23:0.089048)
+Branch 28:0.0086565)
+Branch 29;
